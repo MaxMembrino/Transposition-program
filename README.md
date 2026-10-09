@@ -15,6 +15,12 @@ I made this as part of my A Level Computer Science coursework over a year. I wan
 - The program can only read single line sheet music
 - Handwritten sheet music cannot be recognised as the symbols are not similar enough to the templates stored
 
+
+The home page after the theme colour has been changed and tooltips added
 <img src=https://github.com/MaxMembrino/Transposition-program/blob/main/home%20page.png>
+
+The settings page
 <img src=https://github.com/MaxMembrino/Transposition-program/blob/main/settings.png>
+
+The page for selecting which keys to transpose between
 <img src=https://github.com/MaxMembrino/Transposition-program/blob/main/key%20select.png>
