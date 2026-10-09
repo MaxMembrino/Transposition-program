@@ -14,3 +14,7 @@ I made this as part of my A Level Computer Science coursework over a year. I wan
 - Sheet music can have a very wide range of symbols, due to time constraints I was unable to include being able to read all of them
 - The program can only read single line sheet music
 - Handwritten sheet music cannot be recognised as the symbols are not similar enough to the templates stored
+
+<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/home%20page.png>
+<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/settings.png>
+<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/key%20select.png>
