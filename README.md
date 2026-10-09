@@ -1,7 +1,7 @@
 # Transposition Program
 I made this as part of my A Level Computer Science coursework over a year. I wanted to code something that was able to solve a real problem that I often encounter. When playing the trumpet in an orchestra I am often given music in the wrong key for my instrument, therefore I wanted to make a program able to transpose the sheet music for me from just a picture.
 
-<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/transposer.png>
+<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/screenshots/transposer.png>
 
 ## Features
 - Can transpose sheet music in 4/4 and 3/4 time signatures
@@ -17,10 +17,10 @@ I made this as part of my A Level Computer Science coursework over a year. I wan
 
 
 The home page after the theme colour has been changed and tooltips added
-<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/home%20page.png>
+<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/screenshots/home%20page.png>
 
 The settings page
-<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/settings.png>
+<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/screenshots/settings.png>
 
 The page for selecting which keys to transpose between
-<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/key%20select.png>
+<img src=https://github.com/MaxMembrino/Transposition-program/blob/main/screenshots/key%20select.png>
