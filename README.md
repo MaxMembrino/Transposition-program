@@ -8,6 +8,7 @@ I made this as part of my A Level Computer Science coursework over a year. I wan
 - Can analyse a piece of sheet music from a picture and find all the notes
 - Can create a new piece of sheet music in the new key selected by the user
 - Can play the transposed sheet music out loud
+- Has a settings page to change theme colours, font size or add tooltips to explain how to use the program
 
 ## Limitations
 - Sheet music can have a very wide range of symbols, due to time constraints I was unable to include being able to read all of them
